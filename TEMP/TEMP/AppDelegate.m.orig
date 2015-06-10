@@ -17,7 +17,11 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+<<<<<<< HEAD
     // Adding an even newer test comment!
+=======
+    // Adding a new test comment
+>>>>>>> Newer_branch
     return YES;
 }
 
